@@ -1,60 +1,254 @@
-<h1 align="center">Hi 👋, I'm Palakolanu Dhanunjay Reddy</h1>
-<h3 align="center">| Aspiring Full Stack Developer | Open Source Enthusiast | Learning Prompt Engineering & AI Integration |</h3>
+<h1 align="center">👋 Hi, Welcome to Telugu States Official</h1>
+
+<h3 align="center">
+🚀 Telangana & Andhra Pradesh Government Updates | Jobs | Schemes | Education | Technology | Digital Services
+</h3>
+
+<p align="center">
+Helping millions of Telugu people stay updated with the latest Government Schemes, Notifications, Recruitments, Applications, Education Updates, and Public Information.
+</p>
 
 ---
 
-- 🔭 I’m currently working on **[Hacksprint](https://hacksprint-rouge.vercel.app/)**  
+## 🌐 Official Links
 
-- 🚀 I’m currently learning **Firebase, React, Flutter, Backend APIs, and TypeScript**  
-
-- 👨‍💻 My Portfolio Projects:
-  - [Hacksprint](https://hacksp.vercel.app/)  
-  - [AI ChatBot Assistant](https://pdreddy-dhanu-chat-bot.netlify.app)  
-  - [Short Music Tunes](https://pdr-tunes.netlify.app)  
-  - [Hostel Food Feedback System](https://pdreddydhanu.github.io/hostel-food-feedback/)  
-  - [Personal Portfolio](https://dhanunportfolio.netlify.app/)  
-
-- 📅 Recent Certifications: **Google Generative AI, Web Full Stack, AI-ML by Google-AICTE**  
-
-- 🤔 Ask me about **HTML5, CSS3, GitHub, Google GenAI API**  
-
-- 🧠 I'm currently **exploring TypeScript as a beginner**, learning it through hands-on projects.  
-
-- 📧 Reach me: **palakolanudhanunjayreddy@gmail.com**  
-
-- 📄 Resume: [View My Resume](https://drive.google.com/file/d/1JwYjnQHSYwqGHkytpOTPUs2yPCoAaGsA/view?usp=sharing)  
-
-- ✨ Fun fact: **I enjoy turning real-life problems into smart web-based solutions!**  
+- 🔗 GitHub: https://github.com/TeluguStatesOfficial
+- 📱 Instagram: https://instagram.com/telugustates_official
+- ▶️ YouTube: https://youtube.com/@TeluguStatesOfficial
+- 📘 Facebook: https://facebook.com/TeluguStatesOfficial
+- 📢 Telegram: https://t.me/TeluguStatesOfficial
+- 🌍 Website: *(Update whenever available)*
+- 🔗 Bio Link: *(Update your latest bio link here anytime)*
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+## 📢 What We Cover
+
+### 🏛 Telangana Government
+
+- Government Schemes
+- TSPSC Updates
+- TGPSC Notifications
+- TGRTC
+- Revenue Updates
+- Agriculture
+- Education
+- Health
+- Welfare Programs
+- Civil Supplies
+- Municipal Updates
+
+---
+
+### 🏛 Andhra Pradesh Government
+
+- Government Schemes
+- APPSC Notifications
+- Village & Ward Secretariat
+- Revenue Updates
+- Agriculture
+- Education
+- Health
+- Welfare Programs
+- Civil Supplies
+- Digital Services
+
+---
+
+### 💼 Government Jobs
+
+- Central Government Jobs
+- State Government Jobs
+- AP Jobs
+- Telangana Jobs
+- Bank Jobs
+- Railway Jobs
+- Defence Jobs
+- Police Jobs
+- Teaching Jobs
+- University Recruitments
+- Contract Jobs
+- Walk-in Drives
+
+---
+
+### 📑 Applications & Online Services
+
+We regularly publish updates for
+
+- Scholarship Applications
+- Pension Applications
+- Ration Card
+- Aadhaar Services
+- PAN Services
+- Voter Services
+- MeeSeva
+- Praja Palana
+- Dharani
+- Land Records
+- Income Certificate
+- Caste Certificate
+- Residence Certificate
+- Driving Licence
+- Passport
+- Health Cards
+- Farmer Services
+- Student Services
+
+---
+
+### 🎓 Education
+
+- Board Exams
+- SSC
+- Intermediate
+- Degree
+- Engineering
+- Polytechnic
+- Entrance Exams
+- Results
+- Hall Tickets
+- Time Tables
+- Admissions
+- Scholarships
+
+---
+
+### 🌾 Agriculture
+
+- Crop Advisory
+- Weather Alerts
+- Subsidies
+- Seeds
+- Fertilizers
+- Market Prices
+- Farming Schemes
+- Farmer Welfare
+- Rythu Bharosa
+- PM Kisan
+
+---
+
+### 📱 Technology
+
+- AI Updates
+- Mobile Apps
+- Government Apps
+- Cyber Awareness
+- Digital India
+- Online Services
+- Useful Websites
+- Productivity Tools
+
+---
+
+### 📰 Daily Updates
+
+✔ Breaking News
+
+✔ Government Orders
+
+✔ Official Notifications
+
+✔ Recruitment Alerts
+
+✔ Scheme Launches
+
+✔ Application Deadlines
+
+✔ Last Date Reminders
+
+✔ Results
+
+✔ Hall Tickets
+
+✔ Admit Cards
+
+✔ Public Announcements
+
+---
+
+## 🛠 Technologies
+
 <p align="left">
-<a href="https://linkedin.com/in/dhanunjay-reddy-palakolanu-878b70259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@pdreddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-<a href="https://t.me/PDReddy_Dhanu04_08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" height="30" width="40" /></a>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.netlify.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/> </a>
+## 📈 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TeluguStatesOfficial&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeluguStatesOfficial&layout=compact&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=TeluguStatesOfficial&theme=tokyonight"/>
+
 </p>
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PDR-Dhanu&show_icons=true&locale=en&layout=compact" alt="PDR-Dhanu" /></p>
+## 🎯 Mission
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PDR-Dhanu&show_icons=true&locale=en" alt="PDR-Dhanu" /></p>
+To make every important Government Update easily accessible for Telugu people through trusted, fast, and easy-to-understand digital content.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PDR-Dhanu&" alt="PDR-Dhanu" /></p>
+---
+
+## 🤝 Collaboration
+
+We welcome collaborations for
+
+- Government Awareness
+- Public Information Campaigns
+- Educational Initiatives
+- Digital Services
+- Technology Projects
+- AI Automation
+- Social Media Promotions
+- Public Welfare Programs
+
+---
+
+### ⭐ Follow Telugu States Official
+
+Stay connected for
+
+🏛 Government Schemes
+
+💼 Jobs
+
+📢 Notifications
+
+📱 Online Applications
+
+🎓 Education Updates
+
+🌾 Agriculture
+
+💻 Technology
+
+⚡ Breaking News
+
+❤️ Trusted Information for Telugu People
