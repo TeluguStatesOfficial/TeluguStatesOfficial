@@ -1,20 +1,13 @@
-<div align="center">
 
 # 👋 Welcome to Telugu States Official
 
+<div align="center">
+
 ### 🇮🇳 Trusted Government Information Platform for Telugu People
 
-<p>
-<strong>Government Updates</strong> •
-<strong>Jobs</strong> •
-<strong>Schemes</strong> •
-<strong>Education</strong> •
-<strong>Technology</strong> •
-<strong>Digital Services</strong>
-</p>
+**Government Updates** • **Jobs** • **Schemes** • **Education** • **Technology** • **Digital Services**
 
 <br>
-<div align="center">
 
 <table>
 <tr>
@@ -22,11 +15,11 @@
 <td align="center">
 <a href="https://www.instagram.com/telugustates_official/">
 <img src="https://cdn.simpleicons.org/instagram/E4405F" height="42"/><br>
-<b>Telugu States Official </b>
+<b>Telugu States Official</b>
 </a>
 </td>
 
-<td width="30"></td>
+<td width="25"></td>
 
 <td align="center">
 <a href="https://www.instagram.com/tso_speed_updates/">
@@ -35,55 +28,54 @@
 </a>
 </td>
 
-<td width="30"></td>
+<td width="25"></td>
 
 <td align="center">
 <a href="https://www.facebook.com/telugustatesofficials">
 <img src="https://cdn.simpleicons.org/facebook/1877F2" height="42"/><br>
-<b>TSO Creations </b>
+<b>TSO Creations</b>
 </a>
 </td>
 
-<td width="30"></td>
+<td width="25"></td>
 
 <td align="center">
 <a href="https://www.youtube.com/@tso_speed">
 <img src="https://cdn.simpleicons.org/youtube/FF0000" height="42"/><br>
-<b>Telugu States Official</b>
+<b>YouTube</b>
 </a>
 </td>
 
-<td width="30"></td>
+<td width="25"></td>
 
 <td align="center">
 <a href="https://www.whatsapp.com/channel/0029Vb7upnuCXC3DjJmCYi1a">
 <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="42"/><br>
-<b>Telugu States Official</b>
+<b>WhatsApp</b>
 </a>
 </td>
 
-<td width="30"></td>
+<td width="25"></td>
 
 <td align="center">
 <a href="https://t.me/TeluguStatesOfficial">
 <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="42"/><br>
-<b>Telugu States Official</b>
+<b>Telegram</b>
 </a>
 </td>
 
-<td width="30"></td>
+<td width="25"></td>
 
 <td align="center">
 <a href="https://github.com/TeluguStatesOfficial">
 <img src="https://cdn.simpleicons.org/github/FFFFFF" height="42"/><br>
-<b>Telugu States Official</b>
+<b>GitHub</b>
 </a>
 </td>
 
 </tr>
 </table>
 
-</div>
 ### 🚀 Empowering Millions of Telugu People
 
 Reliable Government Schemes • Recruitment Notifications • Online Applications • Education Updates • Agriculture • Technology • Public Information
@@ -116,7 +108,7 @@ Our mission is to make every important Government announcement **fast**, **trust
 
 # 🤝 Collaboration
 
-We collaborate on
+We collaborate on:
 
 - Government Awareness Campaigns
 - Public Information Initiatives
@@ -129,26 +121,47 @@ We collaborate on
 
 ---
 
+# 📚 Instagram Comment Resources
+
+Official resources shared through Instagram comment replies.
+
+| 📄 Resource | 🔗 Link |
+|:-----------|:--------|
+| 🧾 ITR Filing Guide | https://docs.google.com/document/d/1YVMzi7vtiwyafdCOWtcEveu5ueVykbIXqtq3ywilwjk/edit?usp=sharing |
+| 🎓 Scholarships | Coming Soon |
+| 🏛 Government Schemes | Coming Soon |
+| 💼 Job Notifications | Coming Soon |
+| 📱 Online Applications | Coming Soon |
+| 🌾 Agriculture | Coming Soon |
+| 📄 Certificates | Coming Soon |
+| ❤️ Health Schemes | Coming Soon |
+| 🚆 Travel Services | Coming Soon |
+| 🚀 More Resources | Updated Regularly |
+
+> **Note:** New guides and documents will be added here whenever they are published through Telugu States Official.
+
+---
+
 # 🌐 Official Links
 
 | Platform | Link |
 |----------|------|
-| 🐙 **GitHub** | https://github.com/TeluguStatesOfficial |
-| 📸 **Instagram** | https://instagram.com/telugustates_official |
-| ⚡ **TSO Speed Updates** | https://instagram.com/tso_speed_updates |
-| ▶️ **YouTube** | https://youtube.com/@tso_speed |
-| 💬 **Telegram** | https://t.me/TeluguStatesOfficial |
-| 🟢 **WhatsApp Channel** | https://whatsapp.com/channel/0029Vb7upnuCXC3DjJmCYi1a |
-| 📘 **Facebook** | https://facebook.com/telugustatesofficials |
+| 🐙 GitHub | https://github.com/TeluguStatesOfficial |
+| 📸 Instagram | https://instagram.com/telugustates_official |
+| ⚡ Instagram (TSO Speed) | https://instagram.com/tso_speed_updates |
+| ▶️ YouTube | https://youtube.com/@tso_speed |
+| 💬 Telegram | https://t.me/TeluguStatesOfficial |
+| 🟢 WhatsApp Channel | https://whatsapp.com/channel/0029Vb7upnuCXC3DjJmCYi1a |
+| 📘 Facebook | https://facebook.com/telugustatesofficials |
 
 ---
 
 <div align="center">
 
-### ❤️ Trusted Information for Every Telugu Citizen
+## ❤️ Trusted Information for Every Telugu Citizen
 
-**Telugu States Official**
+### Telugu States Official
 
-*Fast • Trusted • Accurate*
+**Fast • Trusted • Accurate**
 
 </div>
