@@ -1,69 +1,154 @@
-<h1 align="center">👋 Hi, Welcome to Telugu States Official</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 Telangana & Andhra Pradesh Government Updates | Jobs | Schemes | Education | Technology | Digital Services
-</h3>
+# 👋 Welcome to Telugu States Official
 
-<p align="center">
-Helping millions of Telugu people stay updated with the latest Government Schemes, Notifications, Recruitments, Applications, Education Updates, and Public Information.
+### 🇮🇳 Trusted Government Information Platform for Telugu People
+
+<p>
+<strong>Government Updates</strong> •
+<strong>Jobs</strong> •
+<strong>Schemes</strong> •
+<strong>Education</strong> •
+<strong>Technology</strong> •
+<strong>Digital Services</strong>
 </p>
 
+<br>
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+<a href="https://www.instagram.com/telugustates_official/">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" height="42"/><br>
+<b>Telugu States Official </b>
+</a>
+</td>
+
+<td width="30"></td>
+
+<td align="center">
+<a href="https://www.instagram.com/tso_speed_updates/">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" height="42"/><br>
+<b>TSO Speed</b>
+</a>
+</td>
+
+<td width="30"></td>
+
+<td align="center">
+<a href="https://www.facebook.com/telugustatesofficials">
+<img src="https://cdn.simpleicons.org/facebook/1877F2" height="42"/><br>
+<b>TSO Creations </b>
+</a>
+</td>
+
+<td width="30"></td>
+
+<td align="center">
+<a href="https://www.youtube.com/@tso_speed">
+<img src="https://cdn.simpleicons.org/youtube/FF0000" height="42"/><br>
+<b>Telugu States Official</b>
+</a>
+</td>
+
+<td width="30"></td>
+
+<td align="center">
+<a href="https://www.whatsapp.com/channel/0029Vb7upnuCXC3DjJmCYi1a">
+<img src="https://cdn.simpleicons.org/whatsapp/25D366" height="42"/><br>
+<b>Telugu States Official</b>
+</a>
+</td>
+
+<td width="30"></td>
+
+<td align="center">
+<a href="https://t.me/TeluguStatesOfficial">
+<img src="https://cdn.simpleicons.org/telegram/26A5E4" height="42"/><br>
+<b>Telugu States Official</b>
+</a>
+</td>
+
+<td width="30"></td>
+
+<td align="center">
+<a href="https://github.com/TeluguStatesOfficial">
+<img src="https://cdn.simpleicons.org/github/FFFFFF" height="42"/><br>
+<b>Telugu States Official</b>
+</a>
+</td>
+
+</tr>
+</table>
+
+</div>
+### 🚀 Empowering Millions of Telugu People
+
+Reliable Government Schemes • Recruitment Notifications • Online Applications • Education Updates • Agriculture • Technology • Public Information
+
+</div>
+
 ---
 
+# 🎯 Mission
 
-
-## 🎯 Mission
-
-To make every important Government Update easily accessible for Telugu people through trusted, fast, and easy-to-understand digital content.
+Our mission is to make every important Government announcement **fast**, **trusted**, and **easy to understand** for every Telugu citizen through high-quality digital content.
 
 ---
 
-## 🤝 Collaboration
+# 🌟 What We Cover
 
-We welcome collaborations for
+| 🏛 Government | 💼 Jobs | 📢 Notifications |
+|:-------------:|:------:|:---------------:|
+| Government Schemes | Recruitment Updates | Official Circulars |
 
-- Government Awareness
-- Public Information Campaigns
-- Educational Initiatives
-- Digital Services
-- Technology Projects
+| 🎓 Education | 🌾 Agriculture | 💻 Technology |
+|:------------:|:-------------:|:-------------:|
+| Exams • Results | Farming Updates | AI • Digital Services |
+
+| 📱 Online Services | ⚡ Breaking News | ❤️ Public Welfare |
+|:-----------------:|:---------------:|:----------------:|
+| Government Portals | Instant Updates | Citizen Awareness |
+
+---
+
+# 🤝 Collaboration
+
+We collaborate on
+
+- Government Awareness Campaigns
+- Public Information Initiatives
+- Educational Projects
 - AI Automation
+- Technology Solutions
+- Digital Services
+- Brand Collaborations
 - Social Media Promotions
-- Public Welfare Programs
 
 ---
 
-### ⭐ Follow Telugu States Official
+# 🌐 Official Links
 
-Stay connected for
+| Platform | Link |
+|----------|------|
+| 🐙 **GitHub** | https://github.com/TeluguStatesOfficial |
+| 📸 **Instagram** | https://instagram.com/telugustates_official |
+| ⚡ **TSO Speed Updates** | https://instagram.com/tso_speed_updates |
+| ▶️ **YouTube** | https://youtube.com/@tso_speed |
+| 💬 **Telegram** | https://t.me/TeluguStatesOfficial |
+| 🟢 **WhatsApp Channel** | https://whatsapp.com/channel/0029Vb7upnuCXC3DjJmCYi1a |
+| 📘 **Facebook** | https://facebook.com/telugustatesofficials |
 
-🏛 Government Schemes
+---
 
-💼 Jobs
+<div align="center">
 
-📢 Notifications
+### ❤️ Trusted Information for Every Telugu Citizen
 
-📱 Online Applications
+**Telugu States Official**
 
-🎓 Education Updates
+*Fast • Trusted • Accurate*
 
-🌾 Agriculture
-
-💻 Technology
-
-⚡ Breaking News
-
-❤️ Trusted Information for Telugu People
-
-
-## 🌐 Official Links
-
-- 🔗 GitHub: https://github.com/TeluguStatesOfficial
-- 📱 Instagram: https://instagram.com/telugustates_official
-- ▶️ YouTube: https://youtube.com/@TeluguStatesOfficial
-- 📘 Facebook: https://facebook.com/TeluguStatesOfficial
-- 📢 Telegram: https://t.me/TeluguStatesOfficial
-- 🌍 Website: *(Update whenever available)*
-- 🔗 Bio Link: *(Update your latest bio link here anytime)*
-
-
+</div>
