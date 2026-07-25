@@ -146,6 +146,10 @@ Official resources shared through Instagram comment replies.
 | 📄 Resource | 🔗 Link |
 |:-----------|:--------|
 | 🧾 ITR Filing Guide | https://docs.google.com/document/d/1YVMzi7vtiwyafdCOWtcEveu5ueVykbIXqtq3ywilwjk/edit?usp=sharing |
+
+| 🧾 Voter list checking | https://docs.google.com/document/d/18wv6gQwEpIWghBc0mbzEAE-xX4LI19IbqxyseKNrRqs/edit?usp=drivesdk |
+
+
 > **Note:** New guides and documents will be added here whenever they are published through Telugu States Official.
 
 ---
