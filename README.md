@@ -128,16 +128,6 @@ Official resources shared through Instagram comment replies.
 | 📄 Resource | 🔗 Link |
 |:-----------|:--------|
 | 🧾 ITR Filing Guide | https://docs.google.com/document/d/1YVMzi7vtiwyafdCOWtcEveu5ueVykbIXqtq3ywilwjk/edit?usp=sharing |
-| 🎓 Scholarships | Coming Soon |
-| 🏛 Government Schemes | Coming Soon |
-| 💼 Job Notifications | Coming Soon |
-| 📱 Online Applications | Coming Soon |
-| 🌾 Agriculture | Coming Soon |
-| 📄 Certificates | Coming Soon |
-| ❤️ Health Schemes | Coming Soon |
-| 🚆 Travel Services | Coming Soon |
-| 🚀 More Resources | Updated Regularly |
-
 > **Note:** New guides and documents will be added here whenever they are published through Telugu States Official.
 
 ---
