@@ -90,37 +90,55 @@ Our mission is to make every important Government announcement **fast**, **trust
 
 ---
 
-# 🌟 What We Cover
+# 🌟 What We Cover & 🤝 Collaboration
 
-| 🏛 Government | 💼 Jobs | 📢 Notifications |
-|:-------------:|:------:|:---------------:|
-| Government Schemes | Recruitment Updates | Official Circulars |
+<table width="100%">
+<tr valign="top">
 
-| 🎓 Education | 🌾 Agriculture | 💻 Technology |
-|:------------:|:-------------:|:-------------:|
-| Exams • Results | Farming Updates | AI • Digital Services |
+<td width="50%">
 
-| 📱 Online Services | ⚡ Breaking News | ❤️ Public Welfare |
-|:-----------------:|:---------------:|:----------------:|
-| Government Portals | Instant Updates | Citizen Awareness |
+## 🌟 What We Cover
+
+| Category | Description |
+|:---------|:------------|
+| 🏛 **Government** | Government Schemes |
+| 💼 **Jobs** | Recruitment Updates |
+| 📢 **Notifications** | Official Circulars |
+| 🎓 **Education** | Exams • Results |
+| 🌾 **Agriculture** | Farming Updates |
+| 💻 **Technology** | AI • Digital Services |
+| 📱 **Online Services** | Government Portals |
+| ⚡ **Breaking News** | Instant Updates |
+| ❤️ **Public Welfare** | Citizen Awareness |
+
+</td>
+
+<td width="50%">
+
+## 🤝 Collaboration
+
+We welcome collaborations for:
+
+- 🏛 Government Awareness Campaigns
+- 📢 Public Information Initiatives
+- 🎓 Educational Projects
+- 🤖 AI Automation
+- 💻 Technology Solutions
+- 📱 Digital Services
+- 🌐 Social Media Promotions
+- 🤝 Brand Collaborations
+- ❤️ Public Welfare Programs
+
+### 📧 Contact
+
+Feel free to collaborate with **Telugu States Official** for awareness campaigns, digital services, AI solutions, educational initiatives, and government information projects.
+
+</td>
+
+</tr>
+</table>
 
 ---
-
-# 🤝 Collaboration
-
-We collaborate on:
-
-- Government Awareness Campaigns
-- Public Information Initiatives
-- Educational Projects
-- AI Automation
-- Technology Solutions
-- Digital Services
-- Brand Collaborations
-- Social Media Promotions
-
----
-
 # 📚 Instagram Comment Resources
 
 Official resources shared through Instagram comment replies.
