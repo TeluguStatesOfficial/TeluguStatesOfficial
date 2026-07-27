@@ -147,8 +147,13 @@ Official documents and guides shared through **Telugu States Official** Instagra
 | 📄 Resource | 🔗 Access Link |
 |:------------|:---------------|
 | 🧾 **ITR Filing Guide** | https://docs.google.com/document/d/1YVMzi7vtiwyafdCOWtcEveu5ueVykbIXqtq3ywilwjk/edit?usp=sharing |
+
+
 | ✅ **Telangana e-kyc** | https://docs.google.com/document/d/1TI-1IwFRWBt9WBu0zMb-rOq6Jel1gKixZOjWoKtXyNg/edit?usp=drivesdk |
+
+
 | 🗳️ **Voter List Checking** | https://docs.google.com/document/d/18wv6gQwEpIWghBc0mbzEAE-xX4LI19IbqxyseKNrRqs/edit?usp=drivesdk |
+
 | 💡⚡**Electricity🔌💡** |
 TG NPDCL.      https://play.google.com/store/apps/details?id=in.tsnpdcl.tsnpdcl
 TG SPDCL 
