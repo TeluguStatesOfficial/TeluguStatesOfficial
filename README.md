@@ -149,6 +149,18 @@ Official documents and guides shared through **Telugu States Official** Instagra
 | 🧾 **ITR Filing Guide** | https://docs.google.com/document/d/1YVMzi7vtiwyafdCOWtcEveu5ueVykbIXqtq3ywilwjk/edit?usp=sharing |
 | 🗳️ **Voter List Checking** | https://docs.google.com/document/d/18wv6gQwEpIWghBc0mbzEAE-xX4LI19IbqxyseKNrRqs/edit?usp=drivesdk |
 
+| 💡⚡**Electricity🔌💡** |
+
+TG NPDCL.      https://play.google.com/store/apps/details?id=in.tsnpdcl.tsnpdcl
+
+TG SPDCL 
+
+https://play.google.com/store/apps/details?id=supply.power.tsspdcl 
+
+Toll Free Number  
+
+1912 and 1800-425-0028 |
+
 > **💡 Note:** New guides and resources will be added here as they become available through **Telugu States Official**.
 
 ---
