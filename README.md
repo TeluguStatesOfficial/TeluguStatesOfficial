@@ -154,6 +154,9 @@ Official documents and guides shared through **Telugu States Official** Instagra
 
 | 🗳️ **Voter List Checking** | https://docs.google.com/document/d/18wv6gQwEpIWghBc0mbzEAE-xX4LI19IbqxyseKNrRqs/edit?usp=drivesdk |
 
+| 🧑‍🧑‍🧒 **Family Register Certificate** | https://docs.google.com/document/d/1kRPu8Kkfn1GByM8nx53sgaVh4BU71FsQ7BV42yfRFA8/edit?usp=drivesdk |
+
+
 | 💡⚡**Electricity🔌💡** |
 TG NPDCL.      https://play.google.com/store/apps/details?id=in.tsnpdcl.tsnpdcl
 TG SPDCL 
