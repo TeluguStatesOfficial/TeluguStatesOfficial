@@ -149,6 +149,9 @@ Official documents and guides shared through **Telugu States Official** Instagra
 | 🧾 **ITR Filing Guide** | https://docs.google.com/document/d/1YVMzi7vtiwyafdCOWtcEveu5ueVykbIXqtq3ywilwjk/edit?usp=sharing |
 
 
+| 🧾 **Ration card EKyc** | https://smartpds.telangana.gov.in/ |
+
+
 | ✅ **Telangana e-kyc** | https://docs.google.com/document/d/1TI-1IwFRWBt9WBu0zMb-rOq6Jel1gKixZOjWoKtXyNg/edit?usp=drivesdk |
 
 | ✅ **POLICE NOTIFICATION** | https://docs.google.com/document/d/1HMHDAWF2uZqbatR-usiphc6g7FlptOKJpekPbGGVoOQ/edit?usp=sharing |
