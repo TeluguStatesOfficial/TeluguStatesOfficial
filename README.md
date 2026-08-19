@@ -1,4 +1,3 @@
-
 # 👋 Welcome to Telugu States Official
 
 <div align="center">
@@ -90,109 +89,88 @@ Our mission is to make every important Government announcement **fast**, **trust
 
 ---
 
-# 🌟 What We Cover & 🤝 Collaboration
+# 🌟 What We Cover
 
-<table width="100%">
-<tr valign="top">
-
-<td width="50%">
-
-## 🌟 What We Cover
-
-| Category | Description |
-|:---------|:------------|
-| 🏛 **Government** | Government Schemes |
-| 💼 **Jobs** | Recruitment Updates |
-| 📢 **Notifications** | Official Circulars |
-| 🎓 **Education** | Exams • Results |
-| 🌾 **Agriculture** | Farming Updates |
-| 💻 **Technology** | AI • Digital Services |
-| 📱 **Online Services** | Government Portals |
-| ⚡ **Breaking News** | Instant Updates |
-| ❤️ **Public Welfare** | Citizen Awareness |
-
-</td>
-
-<td width="50%">
-
-## 🤝 Collaboration
-
-We welcome collaborations for:
-
-- 🏛 Government Awareness Campaigns
-- 📢 Public Information Initiatives
-- 🎓 Educational Projects
-- 🤖 AI Automation
-- 💻 Technology Solutions
-- 📱 Digital Services
-- 🌐 Social Media Promotions
-- 🤝 Brand Collaborations
-- ❤️ Public Welfare Programs
-
-### 📧 Contact
-
-Feel free to collaborate with **Telugu States Official** for awareness campaigns, digital services, AI solutions, educational initiatives, and government information projects.
-
-</td>
-
-</tr>
-</table>
+| Category               | Description           |
+| :--------------------- | :-------------------- |
+| 🏛 **Government**      | Government Schemes    |
+| 💼 **Jobs**            | Recruitment Updates   |
+| 📢 **Notifications**   | Official Circulars    |
+| 🎓 **Education**       | Exams • Results       |
+| 🌾 **Agriculture**     | Farming Updates       |
+| 💻 **Technology**      | AI • Digital Services |
+| 📱 **Online Services** | Government Portals    |
+| ⚡ **Breaking News**    | Instant Updates       |
+| ❤️ **Public Welfare**  | Citizen Awareness     |
 
 ---
 
 # 📚 Instagram Comment Resources
 
-Official documents and guides shared through **Telugu States Official** Instagram comment replies.
+Official documents, guides, and government service links shared through **Telugu States Official** Instagram comment replies.
 
-| 📄 Resource | 🔗 Access Link |
-|:------------|:---------------|
-| 🧾 **ITR Filing Guide** | https://docs.google.com/document/d/1YVMzi7vtiwyafdCOWtcEveu5ueVykbIXqtq3ywilwjk/edit?usp=sharing |
-
-
-
-
-
-
-| 🧾 **PM ujwal yojana gas** | https://docs.google.com/document/d/1UdBEHJCoaRS7wXJFy2gPIH7P6rRRUw4nYZtxNfIvtDQ/edit?usp=sharing |
-
-
-
-
-
-
-| 🧾 **Ration card EKyc** | https://smartpds.telangana.gov.in/ |
-
-
-| ✅ **Telangana e-kyc** | https://docs.google.com/document/d/1TI-1IwFRWBt9WBu0zMb-rOq6Jel1gKixZOjWoKtXyNg/edit?usp=drivesdk |
-
-| ✅ **POLICE NOTIFICATION** | https://docs.google.com/document/d/1HMHDAWF2uZqbatR-usiphc6g7FlptOKJpekPbGGVoOQ/edit?usp=sharing |
-
-| 🗳️ **Voter List Checking** | https://docs.google.com/document/d/18wv6gQwEpIWghBc0mbzEAE-xX4LI19IbqxyseKNrRqs/edit?usp=drivesdk |
-
-| 🧑‍🧑‍🧒 **Family Register Certificate** | https://docs.google.com/document/d/1kRPu8Kkfn1GByM8nx53sgaVh4BU71FsQ7BV42yfRFA8/edit?usp=drivesdk |
-
-
-| 💡⚡**Electricity🔌💡** |
-TG NPDCL.      https://play.google.com/store/apps/details?id=in.tsnpdcl.tsnpdcl
-TG SPDCL 
-https://play.google.com/store/apps/details?id=supply.power.tsspdcl 
-Toll Free Number  
-1912 and 1800-425-0028 |
-
-> **💡 Note:** New guides and resources will be added here as they become available through **Telugu States Official**.
+| 📄 Resource                              | 🔗 Access Link                                                                                                        |
+| :--------------------------------------- | :-------------------------------------------------------------------------------------------------------------------- |
+| 🧾 **ITR Filing Guide**                  | [Open Guide](https://docs.google.com/document/d/1YVMzi7vtiwyafdCOWtcEveu5ueVykbIXqtq3ywilwjk/edit?usp=sharing)        |
+| 🧾 **PM Ujjwala Yojana – Gas**           | [Open Guide](https://docs.google.com/document/d/1UdBEHJCoaRS7wXJFy2gPIH7P6rRRUw4nYZtxNfIvtDQ/edit?usp=sharing)        |
+| 🧾 **Ration Card e-KYC**                 | [Open Telangana Smart PDS](https://smartpds.telangana.gov.in/)                                                        |
+| 🧾 **Telangana e-KYC Guide**             | [Open Guide](https://docs.google.com/document/d/1TI-1IwFRWBt9WBu0zMb-rOq6Jel1gKixZOjWoKtXyNg/edit?usp=drivesdk)       |
+| 👮 **Police Notification**               | [Open Notification](https://docs.google.com/document/d/1HMHDAWF2uZqbatR-usiphc6g7FlptOKJpekPbGGVoOQ/edit?usp=sharing) |
+| 🗳️ **Voter List Checking**              | [Open Guide](https://docs.google.com/document/d/18wv6gQwEpIWghBc0mbzEAE-xX4LI19IbqxyseKNrRqs/edit?usp=drivesdk)       |
+| 🧑‍🧑‍🧒 **Family Register Certificate** | [Open Guide](https://docs.google.com/document/d/1kRPu8Kkfn1GByM8nx53sgaVh4BU71FsQ7BV42yfRFA8/edit?usp=drivesdk)       |
 
 ---
+
+# ⚡ Electricity Services – Telangana
+
+| Service                      | 🔗 Link                                                                           |
+| :--------------------------- | :-------------------------------------------------------------------------------- |
+| ⚡ **TG NPDCL Mobile App**    | [Google Play](https://play.google.com/store/apps/details?id=in.tsnpdcl.tsnpdcl)   |
+| ⚡ **TG SPDCL Mobile App**    | [Google Play](https://play.google.com/store/apps/details?id=supply.power.tsspdcl) |
+| ☎️ **Electricity Toll-Free** | **1912**                                                                          |
+| ☎️ **Additional Toll-Free**  | **1800-425-0028**                                                                 |
+
+---
+
+# 🤝 Collaboration
+
+We welcome collaborations for:
+
+* 🏛 Government Awareness Campaigns
+* 📢 Public Information Initiatives
+* 🎓 Educational Projects
+* 🤖 AI Automation
+* 💻 Technology Solutions
+* 📱 Digital Services
+* 🌐 Social Media Promotions
+* 🤝 Brand Collaborations
+* ❤️ Public Welfare Programs
+
+### 📧 Contact
+
+Feel free to collaborate with **Telugu States Official** for awareness campaigns, digital services, AI solutions, educational initiatives, and government information projects.
+
+---
+
 # 🌐 Official Links
 
-| Platform | Link |
-|----------|------|
-| 🐙 GitHub | https://github.com/TeluguStatesOfficial |
-| 📸 Instagram | https://instagram.com/telugustates_official |
-| ⚡ Instagram (TSO Speed) | https://instagram.com/tso_speed_updates |
-| ▶️ YouTube | https://youtube.com/@tso_speed |
-| 💬 Telegram | https://t.me/TeluguStatesOfficial |
-| 🟢 WhatsApp Channel | https://whatsapp.com/channel/0029Vb7upnuCXC3DjJmCYi1a |
-| 📘 Facebook | https://facebook.com/telugustatesofficials |
+| Platform                                  | 🔗 Official Link                                                       |
+| :---------------------------------------- | :--------------------------------------------------------------------- |
+| 📸 **Instagram – Telugu States Official** | [Open Instagram](https://instagram.com/telugustates_official)          |
+| ⚡ **Instagram – TSO Speed**               | [Open Instagram](https://instagram.com/tso_speed_updates)              |
+| ▶️ **YouTube – TSO Speed**                | [Open YouTube](https://youtube.com/@tso_speed)                         |
+| 🟢 **WhatsApp Channel**                   | [Open WhatsApp](https://whatsapp.com/channel/0029Vb7upnuCXC3DjJmCYi1a) |
+| 💬 **Telegram**                           | [Open Telegram](https://t.me/TeluguStatesOfficial)                     |
+| 📘 **Facebook – TSO Creations**           | [Open Facebook](https://facebook.com/telugustatesofficials)            |
+| 🐙 **GitHub**                             | [Open GitHub](https://github.com/TeluguStatesOfficial)                 |
+
+---
+
+# 📌 Important Note
+
+New government guides, application resources, official notifications, and digital-service links will be added here as they become available through **Telugu States Official**.
+
+Always verify important information with the respective **official government department or portal** before submitting applications or documents.
 
 ---
 
