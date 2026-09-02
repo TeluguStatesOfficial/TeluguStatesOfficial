@@ -112,6 +112,7 @@ Official documents, guides, and government service links shared through **Telugu
 | 📄 Resource                              | 🔗 Access Link                                                                                                        |
 | :--------------------------------------- | :-------------------------------------------------------------------------------------------------------------------- |
 | 🧾 **ITR Filing Guide**                  | [Open Guide](https://docs.google.com/document/d/1YVMzi7vtiwyafdCOWtcEveu5ueVykbIXqtq3ywilwjk/edit?usp=sharing)        |
+| 🚨 **తెలంగాణ చేయూత పెన్షన్ల పథకం**                  | [Open Guide](https://docs.google.com/document/d/1XM6mRhllqh2pUYXkmfzt_S41hsPNVjc5mz8KSUCNl2c/edit?usp=sharing)        |
 | 🧾 **ఉచిత కుట్టు మిషన్ల పథకం (Sewing Machine Scheme)**                  | [Open Guide](https://docs.google.com/document/d/1JQLAb3pPDL88i8QMS0_l7fkitWrumMuZMlT52pFuwzc/edit?usp=sharing)        |
 | 🧾 **PM Ujjwala Yojana – Gas**           | [Open Guide](https://docs.google.com/document/d/1UdBEHJCoaRS7wXJFy2gPIH7P6rRRUw4nYZtxNfIvtDQ/edit?usp=sharing)        |
 | 🧾 **Ration Card e-KYC**                 | [Open Telangana Smart PDS](https://smartpds.telangana.gov.in/)                                                        |
