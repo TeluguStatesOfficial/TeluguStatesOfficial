@@ -113,6 +113,7 @@ Official documents, guides, and government service links shared through **Telugu
 | :--------------------------------------- | :-------------------------------------------------------------------------------------------------------------------- |
 | 🧾 **ITR Filing Guide**                  | [Open Guide](https://docs.google.com/document/d/1YVMzi7vtiwyafdCOWtcEveu5ueVykbIXqtq3ywilwjk/edit?usp=sharing)        |
 | 🚨🚨🚨 **GDS POSTAL JOB REQUIREMENT**                  | [Open Guide](https://docs.google.com/document/d/1WSthYDPEct-DbupuRW82n9OlYEnGA3i6ASmvTrfUgWw/edit?usp=drivesdk)        |
+| 🌐 **AP Pension Status NTR Bharosa Pension**                  | [Open website](https://uat.apseva.ap.gov.in/#/home)        |
 | 🚨 **తెలంగాణ చేయూత పెన్షన్ల పథకం**                  | [Open Guide](https://docs.google.com/document/d/1XM6mRhllqh2pUYXkmfzt_S41hsPNVjc5mz8KSUCNl2c/edit?usp=sharing)        |
 | 🚨 **SBI 222 Specialist officer Posts**                  | [Open Link](https://sbi.bank.in/web/careers/current-openings)        |
 | 🧾 **ఉచిత కుట్టు మిషన్ల పథకం (Sewing Machine Scheme)**                  | [Open Guide](https://docs.google.com/document/d/1JQLAb3pPDL88i8QMS0_l7fkitWrumMuZMlT52pFuwzc/edit?usp=sharing)        |
