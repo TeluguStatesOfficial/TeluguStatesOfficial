@@ -113,6 +113,7 @@ Official documents, guides, and government service links shared through **Telugu
 | :--------------------------------------- | :-------------------------------------------------------------------------------------------------------------------- |
 | 🧾 **ITR Filing Guide**                  | [Open Guide](https://docs.google.com/document/d/1YVMzi7vtiwyafdCOWtcEveu5ueVykbIXqtq3ywilwjk/edit?usp=sharing)        |
 | 🚨🚨🚨 **GDS POSTAL JOB REQUIREMENT**                  | [Open Guide](https://docs.google.com/document/d/1WSthYDPEct-DbupuRW82n9OlYEnGA3i6ASmvTrfUgWw/edit?usp=drivesdk)        |
+| 🌾🌾 **పీఎం కిసాన్ మాన్‌ధన్ యోజన (PM-KMY) - పూర్తి వివరాలు & దరఖాస్తు విధానం**                  | [Open Guide](https://docs.google.com/document/d/148oydXUMFch8ZZLcyAvy8HVNMbPWJd0ZaYH7G4lzmGY/edit?usp=drivesdk)        |
 | 🏘️🏘️ **ఆంధ్రప్రదేశ్ ప్రభుత్వం ప్రవేశపెట్టిన ఉచిత ఇళ్ల స్థలాల పథకం (AP Free House Sites Scheme)**                  | [Open Guide](https://docs.google.com/document/d/17W3DThuVezVzcwhn4hrLwcm145gJDBwLmS_m1mMN97E/edit?usp=sharing)        |
 | 🏘️🏘️ **indirammaillu status**                  | [Open Website](https://indirammaindlu.telangana.gov.in/)        |
 | 🌐 **AP Pension Status NTR Bharosa Pension**                  | [Open website](https://uat.apseva.ap.gov.in/#/home)        |
