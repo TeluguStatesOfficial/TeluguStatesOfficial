@@ -113,6 +113,7 @@ Official documents, guides, and government service links shared through **Telugu
 | :--------------------------------------- | :-------------------------------------------------------------------------------------------------------------------- |
 | 🧾 **ITR Filing Guide**                  | [Open Guide](https://docs.google.com/document/d/1YVMzi7vtiwyafdCOWtcEveu5ueVykbIXqtq3ywilwjk/edit?usp=sharing)        |
 | 🚨🚨🚨 **GDS POSTAL JOB REQUIREMENT**                  | [Open Guide](https://docs.google.com/document/d/1WSthYDPEct-DbupuRW82n9OlYEnGA3i6ASmvTrfUgWw/edit?usp=drivesdk)        |
+| 💊💊 **తక్కువ ధరకే మందులు.. Jan Aushadhi Centres!**                  | [App link](https://play.google.com/store/apps/details?id=in.gov.pmbjp)        |
 | 🚙🏍️🚜🚎 **డ్రైవింగ్ లైసెన్స్‌లో మొబైల్ నంబర్ అప్‌డేట్ విధానం (Sarathi Parivahan)**                  | [Open Guide](https://docs.google.com/document/d/1L_DUXruCpH5K1jyhGVI_-QVbfJgbZlvyNXSOfUnlJdc/edit?usp=drivesdk)        |
 | 🌾🌾 **పీఎం కిసాన్ మాన్‌ధన్ యోజన (PM-KMY) - పూర్తి వివరాలు & దరఖాస్తు విధానం**                  | [Open Guide](https://docs.google.com/document/d/148oydXUMFch8ZZLcyAvy8HVNMbPWJd0ZaYH7G4lzmGY/edit?usp=drivesdk)        |
 | 🏘️🏘️ **ఆంధ్రప్రదేశ్ ప్రభుత్వం ప్రవేశపెట్టిన ఉచిత ఇళ్ల స్థలాల పథకం (AP Free House Sites Scheme)**                  | [Open Guide](https://docs.google.com/document/d/17W3DThuVezVzcwhn4hrLwcm145gJDBwLmS_m1mMN97E/edit?usp=sharing)        |
