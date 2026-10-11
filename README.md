@@ -12,7 +12,7 @@
 <tr>
 
 <td align="center">
-<a href="https://www.instagram.com/telugustates_official/">
+<a href="https://www.instagram.com/telugustates.official/">
 <img src="https://cdn.simpleicons.org/instagram/E4405F" height="42"/><br>
 <b>Telugu States Official</b>
 </a>
@@ -21,7 +21,7 @@
 <td width="25"></td>
 
 <td align="center">
-<a href="https://www.instagram.com/tso_speed_updates/">
+<a href="https://www.instagram.com/tso.speed.updates/">
 <img src="https://cdn.simpleicons.org/instagram/E4405F" height="42"/><br>
 <b>TSO Speed</b>
 </a>
@@ -112,6 +112,7 @@ Official documents, guides, and government service links shared through **Telugu
 | 📄 Resource                              | 🔗 Access Link                                                                                                        |
 | :--------------------------------------- | :-------------------------------------------------------------------------------------------------------------------- |
 | 🧾 **ITR Filing Guide**                  | [Open Guide](https://docs.google.com/document/d/1YVMzi7vtiwyafdCOWtcEveu5ueVykbIXqtq3ywilwjk/edit?usp=sharing)        |
+| 🕉️🕉️ **Tirumala Venkatadri App**                  | [Open Link](https://play.google.com/store/apps/details?id=com.tirumala.govinda)        |
 | 🚨🚨🚨 **GDS POSTAL JOB REQUIREMENT**                  | [Open Guide](https://docs.google.com/document/d/1WSthYDPEct-DbupuRW82n9OlYEnGA3i6ASmvTrfUgWw/edit?usp=drivesdk)        |
 | 💊💊 **తక్కువ ధరకే మందులు.. Jan Aushadhi Centres!**                  | [App link](https://play.google.com/store/apps/details?id=in.gov.pmbjp)        |
 | 🚙🏍️🚜🚎 **డ్రైవింగ్ లైసెన్స్‌లో మొబైల్ నంబర్ అప్‌డేట్ విధానం (Sarathi Parivahan)**                  | [Open Guide](https://docs.google.com/document/d/1L_DUXruCpH5K1jyhGVI_-QVbfJgbZlvyNXSOfUnlJdc/edit?usp=drivesdk)        |
