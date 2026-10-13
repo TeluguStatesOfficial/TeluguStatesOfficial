@@ -113,7 +113,7 @@ Official documents, guides, and government service links shared through **Telugu
 | :--------------------------------------- | :-------------------------------------------------------------------------------------------------------------------- |
 | 🧾 **ITR Filing Guide**                  | [Open Guide](https://docs.google.com/document/d/1YVMzi7vtiwyafdCOWtcEveu5ueVykbIXqtq3ywilwjk/edit?usp=sharing)        |
 | 🚨🚨🚨 **GDS POSTAL JOB MERIT LIST**                  | [Open WEBSITE](https://www.indiapost.gov.in/gdsonlineengagement)        |
-| 🚨🚨🚨 **Andhra Pradesh Development Funds 175 కోట్ల**                  | [Open WEBSITE](https://docs.google.com/document/d/11hpeVSO8-ZcPyVMzJZep4kZNHQEBvbUUVTQXXF3v870/edit?usp=drivesdk)        |
+| 🚨🚨🚨 **Andhra Pradesh Development Funds 175 కోట్ల**                  | [Open PDF](https://docs.google.com/document/d/11hpeVSO8-ZcPyVMzJZep4kZNHQEBvbUUVTQXXF3v870/edit?usp=drivesdk)        |
 | 🕉️🕉️ **Tirumala Venkatadri App**                  | [Open Link](https://play.google.com/store/apps/details?id=com.tirumala.govinda)        |
 | 🚨🚨🚨 **GDS POSTAL JOB REQUIREMENT APPLICATION**                  | [Open Guide](https://docs.google.com/document/d/1WSthYDPEct-DbupuRW82n9OlYEnGA3i6ASmvTrfUgWw/edit?usp=drivesdk)        |
 | 💊💊 **తక్కువ ధరకే మందులు.. Jan Aushadhi Centres!**                  | [App link](https://play.google.com/store/apps/details?id=in.gov.pmbjp)        |
