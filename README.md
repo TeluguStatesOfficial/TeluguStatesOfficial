@@ -115,6 +115,7 @@ Official documents, guides, and government service links shared through **Telugu
 | 🚨🚨🚨 **GDS POSTAL JOB MERIT LIST**                  | [Open WEBSITE](https://www.indiapost.gov.in/gdsonlineengagement)        |
 | 🚨🚨🚨 **Andhra Pradesh Development Funds 175 కోట్ల**                  | [Open PDF](https://docs.google.com/document/d/11hpeVSO8-ZcPyVMzJZep4kZNHQEBvbUUVTQXXF3v870/edit?usp=drivesdk)        |
 | 🕉️🕉️ **Tirumala Venkatadri App**                  | [Open Link](https://play.google.com/store/apps/details?id=com.tirumala.govinda)        |
+| 🌾🌾🌽 **Telangana తెలంగాణ కరువు జిల్లా వారిగా కరవు మండలం లిస్ట్**                  | [Open Link](https://drive.google.com/file/d/1nk3tWkd-Te7axGJlF8n6UVNO6MvfWP0M/view?usp=drivesdk)        |
 | 🚨🚨🚨 **GDS POSTAL JOB REQUIREMENT APPLICATION**                  | [Open Guide](https://docs.google.com/document/d/1WSthYDPEct-DbupuRW82n9OlYEnGA3i6ASmvTrfUgWw/edit?usp=drivesdk)        |
 | 💊💊 **తక్కువ ధరకే మందులు.. Jan Aushadhi Centres!**                  | [App link](https://play.google.com/store/apps/details?id=in.gov.pmbjp)        |
 | 🚙🏍️🚜🚎 **డ్రైవింగ్ లైసెన్స్‌లో మొబైల్ నంబర్ అప్‌డేట్ విధానం (Sarathi Parivahan)**                  | [Open Guide](https://docs.google.com/document/d/1L_DUXruCpH5K1jyhGVI_-QVbfJgbZlvyNXSOfUnlJdc/edit?usp=drivesdk)        |
